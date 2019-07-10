@@ -1,0 +1,3 @@
+name,department,birthday month, rate
+John Smith,Accounting,November, 22
+Erica Meyers,IT,March, 31
